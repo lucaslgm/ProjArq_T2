@@ -1,0 +1,10 @@
+br/com/flight_planner_service/Domain/Entities/PlanoDeVooEntity$PlanoDeVooEntityBuilder.class
+br/com/flight_planner_service/Aplicacao/Dtos/PlanoDeVooDTO.class
+br/com/flight_planner_service/Domain/Repositories/IPlanoDeVooRepository.class
+br/com/flight_planner_service/Api/Controllers/Controller.class
+br/com/flight_planner_service/Aplicacao/Dtos/PlanoDeVooDTO$PlanoDeVooDTOBuilder.class
+br/com/flight_planner_service/CommandLineAppStartupRunner.class
+br/com/flight_planner_service/Domain/Entities/PlanoDeVooEntity.class
+br/com/flight_planner_service/Aplicacao/Service/IPlanoDeVooService.class
+br/com/flight_planner_service/Flight_Planner_Service.class
+br/com/flight_planner_service/Domain/Service/PlanoDeVooService.class

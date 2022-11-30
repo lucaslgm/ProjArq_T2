@@ -1,0 +1,8 @@
+/Users/lucaslgm/Developer/T2/flight-planner-service/src/main/java/br/com/flight_planner_service/Api/Controllers/Controller.java
+/Users/lucaslgm/Developer/T2/flight-planner-service/src/main/java/br/com/flight_planner_service/CommandLineAppStartupRunner.java
+/Users/lucaslgm/Developer/T2/flight-planner-service/src/main/java/br/com/flight_planner_service/Domain/Repositories/IPlanoDeVooRepository.java
+/Users/lucaslgm/Developer/T2/flight-planner-service/src/main/java/br/com/flight_planner_service/Aplicacao/Dtos/PlanoDeVooDTO.java
+/Users/lucaslgm/Developer/T2/flight-planner-service/src/main/java/br/com/flight_planner_service/Aplicacao/Service/IPlanoDeVooService.java
+/Users/lucaslgm/Developer/T2/flight-planner-service/src/main/java/br/com/flight_planner_service/Flight_Planner_Service.java
+/Users/lucaslgm/Developer/T2/flight-planner-service/src/main/java/br/com/flight_planner_service/Domain/Service/PlanoDeVooService.java
+/Users/lucaslgm/Developer/T2/flight-planner-service/src/main/java/br/com/flight_planner_service/Domain/Entities/PlanoDeVooEntity.java
